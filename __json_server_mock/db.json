@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "zh",
+      "id": 4
+    },
+    {
+      "name": "熊1",
+      "id": 1
+    },
+    {
+      "name": "熊2",
+      "id": 2
+    },
+    {
+      "name": "熊3",
+      "id": 3
+    },
+    {
+      "name": "熊5",
+      "id": 5
+    }
+  ],
+  "list": [
+    {
+      "name": "棋手管理",
+      "personId": 1,
+      "organization": "外卖组",
+      "id": 2
+    },
+    {
+      "name": "棋手管理2",
+      "personId": 2,
+      "organization": "外卖组2",
+      "id": 3
+    },
+    {
+      "name": "棋手管理3",
+      "personId": 3,
+      "organization": "外卖组3",
+      "id": 4
+    },
+    {
+      "name": "棋手管理4",
+      "personId": 3,
+      "organization": "外卖组4",
+      "id": 5
+    },
+    {
+      "name": "棋手管理5",
+      "personId": 2,
+      "organization": "外卖组5",
+      "id": 6
+    }
+  ]
+}
